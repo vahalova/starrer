@@ -1,3 +1,3 @@
-# * * * Hvězdičkovač na github * * *
+# * * * GITHUB STARRER * * *
 
-Vytvoř si soubor auth.cfg a do něj zkopíruj token.
+Create a file named `auth.cfg` and copy your token into it.
